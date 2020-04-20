@@ -12,7 +12,7 @@ This project seeks to explore portfolio building techniques that will do well in
 - Compare naively constructed portfolios and Sharpe Ratio optimized portfolios against control portfolios
 - Establish a proof of concept that will serve as a template for the continuation of building recession resistant portfolios 
 
-<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_Ratio_Formula.png" width="470" height="200" />
+<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/master/images/Sharpe_Ratio_Formula.png" width="470" height="200" />
 
 
 
