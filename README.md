@@ -1,4 +1,7 @@
-﻿## Abstract
+﻿## Authors: Daniel Muniz & Alejandro Suarez
+ 
+ 
+## Abstract
 
 This project seeks to explore portfolio building techniques that will do well in bear markets. We look at quarterly and daily data that point to a stock being resistant to recessions and we sample portfolios to compare between resistant and non-resistant stocks. We find that some treatments give promising portfolios during both bull and bear markets. These naive results warrant more investigation into the relationship between these metrics and portfolio performance.
 
@@ -10,10 +13,6 @@ This project seeks to explore portfolio building techniques that will do well in
 - Establish a proof of concept that will serve as a template for the continuation of building recession resistant portfolios 
 
 <img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_Ratio_Formula.png" width="470" height="200" />
-
-
-<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_ratio.PNG" width="630" height="200" />
-<img src="https://github.com/capstonefiu2020/CAP2020_FINAL/blob/master/images/Sharpe_ratio2.PNG" width="350" height="120" />
 
 
 
